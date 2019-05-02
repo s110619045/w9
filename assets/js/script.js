@@ -5,8 +5,8 @@ import '../css/style.css';
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
-import gNews from'./gNews.js';
-import { newsTemplate } from './templates.js';
+import gNews from'./gNews';
+import { newsTemplate } from './templates';
 
 const getSocialNews = async() =>{
     try{
